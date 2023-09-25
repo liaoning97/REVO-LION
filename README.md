@@ -14,4 +14,4 @@ We propose the ``tune-cross-evaluation`` paradigm, which firstly performs the sy
 The code base is mostly built upon the [LAVIS](https://github.com/salesforce/LAVIS) project, please refer to the installation [guidance](https://github.com/salesforce/LAVIS#installation) for environment setup.
 
 ## Model Weights
-In the proposed tune-cross-evaluation paradigm, we perform instruction tuning using the Q-Former as the projection module. The weights of the Q-Former that has been pre-trained in BLIP2, with Vicuna7B as the language model, before instruction tuning has been released in LAVIS, and can be downloaded [here](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained_vicuna7b.pth).
+In the proposed tune-cross-evaluation paradigm, we perform instruction tuning mainly using the Q-Former as the projection module. The weights of the Q-Former that has been pre-trained in BLIP2, with Vicuna7B as the language model, before instruction tuning has been released in LAVIS, and can be downloaded [here](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/blip2_pretrained_vicuna7b.pth).
