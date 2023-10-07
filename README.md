@@ -1,7 +1,7 @@
 # REVO-LION
 **REVO-LION: Evaluating and Refining Vision-Language Instruction Tuning Datasets**
 
-*Ning Liao, Shaofeng Zhang, Renqiu Xia, Bo Zhang, Min Cao, Junchi Yan, Yu Qiao*
+*Ning Liao, Shaofeng Zhang, Renqiu Xia, Bo Zhang, Min Cao, Yu Qiao, Junchi Yan*
 
 ## News:
 The dataset will be released soon.
